@@ -33,10 +33,6 @@ class Solution {
 
         return Math.Abs(sum1-sum2);
 
-
-
-
-
     }
 
     static void Main(string[] args) {
