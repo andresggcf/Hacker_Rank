@@ -8,22 +8,8 @@ and the rating for Bob's challenge to be the triplet b=(b[0], b[1], b[2]).
 Your task is to find their comparison points by comparing a[0] with b[0], a[1] 
 with b[1], and a[2] with b[2] .
 
-If a[i] > b[i], then Alice is awarded  point.
-If a[i] < b[i], then Bob is awarded  point.
-If a[i] = b[i], then neither person receives a point.
-Comparison points is the total points a person earned.
-
-Given a and b, determine their respective comparison points.
-
-Function Description
-
-It must return an array of two integers, the first being Alice's score and the 
-second being Bob's.
-
-Constraints
-
-Output Format
-Return an array of two integers denoting the respective comparison points earned by Alice and Bob.*/
+https://www.hackerrank.com/challenges/compare-the-triplets/problem
+*/
 
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
